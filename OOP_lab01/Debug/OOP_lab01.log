@@ -1,24 +1,20 @@
-﻿Сборка начата 13.09.2016 22:26:33.
-     1>Проект "D:\MVS 2015 Projects 2 курс\OOP_lab01\OOP_lab01\OOP_lab01.vcxproj" в узле 2 (целевые объекты Build).
-     1>PrepareForBuild:
-         Создание каталога "D:\MVS 2015 Projects 2 курс\OOP_lab01\Debug\".
-         Создание каталога "Debug\OOP_lab01.tlog\".
-       InitializeBuildStatus:
-         Создание "Debug\OOP_lab01.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+﻿Сборка начата 14.09.2016 0:25:26.
+     1>Проект "D:\GIT PROJECTS\OOP_lab01\OOP_lab01.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\OOP_lab01.tlog\unsuccessfulbuild".
        ClCompile:
-         D:\Проги для универа\Microsoft Visual Studio 2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\OOP_lab01.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
-         stdafx.cpp
+         Для всех выходных данных обновления не требуется.
          D:\Проги для универа\Microsoft Visual Studio 2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\OOP_lab01.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt OOP_lab01.cpp
          OOP_lab01.cpp
        Link:
-         D:\Проги для универа\Microsoft Visual Studio 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MVS 2015 Projects 2 курс\OOP_lab01\Debug\OOP_lab01.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\MVS 2015 Projects 2 курс\OOP_lab01\Debug\OOP_lab01.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MVS 2015 Projects 2 курс\OOP_lab01\Debug\OOP_lab01.lib" /MACHINE:X86 Debug\OOP_lab01.obj
+         D:\Проги для универа\Microsoft Visual Studio 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GIT PROJECTS\Debug\OOP_lab01.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\GIT PROJECTS\Debug\OOP_lab01.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\GIT PROJECTS\Debug\OOP_lab01.lib" /MACHINE:X86 Debug\OOP_lab01.obj
          Debug\stdafx.obj
-         OOP_lab01.vcxproj -> D:\MVS 2015 Projects 2 курс\OOP_lab01\Debug\OOP_lab01.exe
+         OOP_lab01.vcxproj -> D:\GIT PROJECTS\Debug\OOP_lab01.exe
        FinalizeBuildStatus:
          Файл "Debug\OOP_lab01.tlog\unsuccessfulbuild" удаляется.
          Обращение к "Debug\OOP_lab01.tlog\OOP_lab01.lastbuildstate".
-     1>Сборка проекта "D:\MVS 2015 Projects 2 курс\OOP_lab01\OOP_lab01\OOP_lab01.vcxproj" завершена (целевые объекты Build).
+     1>Сборка проекта "D:\GIT PROJECTS\OOP_lab01\OOP_lab01.vcxproj" завершена (целевые объекты Build).
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:04.58
+Затраченное время: 00:00:00.94

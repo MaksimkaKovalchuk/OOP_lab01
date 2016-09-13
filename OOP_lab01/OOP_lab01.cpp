@@ -6,7 +6,7 @@
 
 int main(int argc, char*argv[])
 {
-	Calendar enterthedate(13, 9);
+	Calendar enterthedate(13, 9, 2016);
 	enterthedate.getDate();
 	system("pause");
 	return 0;
